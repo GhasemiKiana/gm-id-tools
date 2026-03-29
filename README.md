@@ -1,1 +1,1 @@
-# gm-id-tools
+# gm-id-design-and-characterization
