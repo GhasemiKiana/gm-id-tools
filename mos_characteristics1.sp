@@ -4,8 +4,7 @@
 ******************************
 * Include model files
 ******************************
-.include /Users/kianaghasemi/Desktop/C-Id/tutorial/ptm/model/modelfiles/bulk/22nm_bulk.pm
-
+.include ./models/22nm_bulk.pm
 ******************************
 * Additional options
 ******************************
