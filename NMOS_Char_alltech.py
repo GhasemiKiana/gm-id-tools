@@ -12,8 +12,8 @@ from PySpice.Unit import u_V, u_um
 # 1. Setup & Technology Definitions
 # ============================================================
 # Absolute path to your PTM model files. 
-MODEL_DIR = Path("/Users/kianaghasemi/Desktop/C-Id/tutorial/Python_Codes/ptm/model/modelfiles/bulk")
-
+# Create a folder named 'models' in your project directory and place your .pm files there
+MODEL_DIR = Path("./models")
 # TECHS: Dictionary defining process-specific constraints.
 # L_nm: Minimum gate length.
 # VDD: Nominal supply voltage (scales down for smaller nodes to protect gate oxide).
